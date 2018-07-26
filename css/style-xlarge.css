@@ -4,8 +4,16 @@
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
 
+.banner-image {
+  width: 40%;
+}
+
+.logo {
+  width: 20%;
+}
+
 /* Basic */
 
 	body, input, select, textarea {
-		font-size: 11pt;
+		font-size: 14pt;
 	}
