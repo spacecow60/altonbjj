@@ -17,3 +17,11 @@
 	body, input, select, textarea {
 		font-size: 14pt;
 	}
+
+#banner {
+		background-image: url(../images/dark_tint.png), url(../images/coverphoto.jpg);
+		background-position: center center;
+		background-size: cover;
+		color: #ffffff;
+		text-align: center;
+	}
